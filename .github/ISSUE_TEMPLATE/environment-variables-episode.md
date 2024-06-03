@@ -1,10 +1,23 @@
 ---
 name: Environment Variables episode
-about: Describe this issue template's purpose here.
-title: ''
+about: EV template
+title: EP XX Environment Variables
 labels: ''
-assignees: ''
+assignees: russelltrow
 
 ---
 
+Guests: 
+Record By:
+Publication:
+Topic: Environment Variables
 
+### Contact History
+
+### Script:
+
+### Riverside Link
+
+### Google Drive Folder
+
+### Marketing Folder (Snippets + Transcript)

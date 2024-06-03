@@ -1,6 +1,6 @@
 ---
 name: GSF Backstage episode
-about: Describe this issue template's purpose here.
+about: Backstage template
 title: EP XX GSF Backstage
 labels: ''
 assignees: ''
